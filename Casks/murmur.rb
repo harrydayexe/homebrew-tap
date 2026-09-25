@@ -1,6 +1,6 @@
 cask "murmur" do
-  version "0.1.1"
-  sha256 "d3d656e893c021324ce7b46dee1ada506d4ce78463fb187f3a47899af7a1e6ee"
+  version "0.1.2"
+  sha256 "04d4b94b48d4115a08f026863960cf6f86b60bff217d4612d41d5808c817acb0"
 
   url "https://github.com/harrydayexe/murmur/releases/download/v#{version}/Murmur-#{version}.zip"
   name "Murmur"
